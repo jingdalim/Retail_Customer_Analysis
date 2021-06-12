@@ -10,7 +10,6 @@ Analysis of online retail customers through segmentation using RFM (Recency, Fre
 5. RFM Analysis
 6. K-means Clustering
 7. Limitations and Next Steps
-8. Conclusions
 
 ## 1. Executive Summary
 **Objective**
